@@ -1,0 +1,54 @@
+div.about{
+	width: 1000px;
+}
+
+div.about div.img p{
+	color: red;
+	font-size: 25px;
+	font-weight: bolder;
+}
+
+div.img {
+	width: 460.66px;
+
+	float: left;
+	margin-left: 1px;
+	margin-right: 0px;
+}
+
+div.img img{
+	height: 520px;
+	width: 500px;
+	margin-right: 0px;
+}
+
+
+div.img h1{
+	margin-left: 82px;
+	font-size: 30px;
+	font-weight: bolder;
+	color:red;
+
+
+}
+
+
+
+div.img div.branch h3{
+	background: #0044;
+
+	color: green;
+	margin-left: 82px;
+	font-size: 20px;
+	margin-right: 100px;
+
+}
+
+
+div.img div.branch ul li{
+	margin-left: 72px;
+	list-style: none;
+	font-size: 17px;
+	background: #0033;
+	margin-right: 100px;
+}

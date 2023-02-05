@@ -1,0 +1,79 @@
+.social ul {
+
+	margin-top:0px;
+	margin-left: 20px; margin-right: 0px;
+	font-size:15px;
+	float: left;
+	background:linear-gradient(#ff33ff,   #b300b3
+
+, #ff33ff );
+
+
+}
+
+
+
+ .social ul li{
+	
+}
+
+
+ .social { margin-top:10px;  }
+
+ .social ul li a {
+	color: white;
+}
+ .social ul li a:hover {
+	color:yellow;
+}
+ .social ul li a:active{
+	color:red;
+}
+
+
+
+
+
+div .address{
+	width: 460.66px;
+	float: left;
+	
+		margin-left: 1px;
+	
+}
+
+div.address img{
+	height: 600px;
+	width: 450px;
+}
+
+div.address h2{
+	margin-top: 60px;
+	
+	font-size: 27px;
+	font-weight: bolder;
+	
+	margin-left: 135px;
+	color: 
+
+}
+
+div.address ul{
+	font-size: 25px;
+	margin-left: 135px
+}
+
+
+div.address div.aa ul{
+	list-style: none;
+	background:linear-gradient(#ff33ff,   #b300b3
+
+, #ff33ff );
+
+		color: white;
+
+}
+
+
+}
+
